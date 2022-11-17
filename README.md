@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img alt="IntroMessage" src="https://github.com/dfcruzz/dfcruzz/blob/main/headerImg.jpg?raw=true" width="540px" height="135px" />
+</p>
 
 <!--
 **DFCruzz/DFCruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

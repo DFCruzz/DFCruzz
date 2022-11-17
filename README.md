@@ -12,12 +12,29 @@ Focused and Problem-solver, but also Chatty and ~~overly~~ Curious.
 
 Aaaaand I sometimes take to long between commits.</br>
 
+
+
 ## Tech Skills and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,mongodb,mysql,docker" />
   </a>
 </p>
+
+
+
+## Social Links
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegofcruzz">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+  <a href="https://discordapp.com/users/326750381386235905">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
+
 
 
 

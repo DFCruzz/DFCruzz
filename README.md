@@ -3,9 +3,24 @@
 </p>
 
 ## Welcome to my Github page
-I'm a Full Stack Web Developer and Software Engineer Student.</br>
-Also interested in ~~in love with~~ everything Tech.</br>
+
+<img align="right" alt="gif" src="https://github.com/dfcruzz/dfcruzz/blob/main/coffeecoding.gif?raw=true" width="200px" height="200px"> 
+
+I'm a Full Stack Web Developer and Software Engineer Student. Also interested in everything Tech.</br>
+
+Focused and Problem-solver, but also Chatty and ~~overly~~ Curious.
+
 Aaaaand I sometimes take to long between commits.</br>
+
+### Tech Skills and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,mongodb,mysql,docker" />
+  </a>
+</p>
+
+
+
 
 
 <!--

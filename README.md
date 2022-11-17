@@ -1,6 +1,12 @@
 <p align="center">
-  <img alt="IntroMessage" src="https://github.com/dfcruzz/dfcruzz/blob/main/headerImg.jpg?raw=true" width="540px" height="135px" />
+  <img alt="IntroMessage" src="https://github.com/dfcruzz/dfcruzz/blob/main/headerImg.jpg?raw=true" width="540px" height="135px" style="border-radius:12px" />
 </p>
+
+## Welcome to my Github page
+I'm a Full Stack Web Developer and Software Engineer Student.</br>
+Also interested in ~~in love with~~ everything Tech.</br>
+Aaaaand I sometimes take to long between commits.</br>
+
 
 <!--
 **DFCruzz/DFCruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

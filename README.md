@@ -6,7 +6,7 @@
 
 <img align="right" alt="gif" src="https://github.com/dfcruzz/dfcruzz/blob/main/coffeecoding.gif?raw=true" width="200px" height="200px"> 
 
-I'm a Full Stack Web Developer and Software Engineer Student. Also interested in everything Tech.</br>
+I'm a Full Stack Web Developer and Software Engineer. Also interested in everything Tech.</br>
 
 Focused and Problem-solver, but also Chatty and ~~overly~~ Curious.
 
